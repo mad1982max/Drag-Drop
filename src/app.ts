@@ -1,5 +1,5 @@
 // /// <reference path="./drag_drop_interfaces.ts" />
-import { Draggable, DragTarget } from './drag_drop_interfaces.js'
+import { Draggable, DragTarget } from './drag_drop_interfaces'
 
 // Project Type
 enum ProjectStatus {
